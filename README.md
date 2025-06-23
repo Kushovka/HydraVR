@@ -77,4 +77,14 @@ A component-based structure ensures clean code and easy scalability.
         </a>
 </div>
  <br><br>
+ 
+# 🚨 Deploy
 
+<br><br>
+<div align="center">
+  <p>
+  Проект развернут на 
+  <a href="https://hydravrkushov.netlify.app/"><strong>Netlify</strong></a>,
+</p>
+</div>
+<br><br>
